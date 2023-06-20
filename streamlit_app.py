@@ -7,7 +7,9 @@ import streamlit as st
 """
 # Welcome to this Streamlit app!
 
-This is a test of Streamlit functionality
+This is a test of Streamlit functionality.
+
+Steve, if you can read this then it works.
 """
 
 
